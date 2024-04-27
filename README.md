@@ -1,2 +1,2 @@
 # shooter-game
-Top-down shooter game experiment
+Top-down shooter game experiment. Much fun, so acton
