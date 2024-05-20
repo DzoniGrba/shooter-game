@@ -6,8 +6,11 @@ public class Weapon : MonoBehaviour
 {
     public GameObject bulletPrefab;
     public Transform firePoint;
-    public float fireForce = 20f;
+   
+   
 
+
+    public float fireForce = 15f;
     public void Fire()
     {
         GameObject bullet = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
